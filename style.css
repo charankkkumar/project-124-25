@@ -1,0 +1,24 @@
+#maindiv
+{
+    background-color: orange;
+}
+h1{
+    color: cornsilk;
+}
+canvas{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+body{
+    background-image:'bg.jpg';
+}
+#canvs
+{
+    width: 600;
+    height: 600;
+    background-color:cornflowerblue;
+    margin-top: 10%;
+    margin-bottom: 5%;  
+    border: darkblue;
+    border-top: 8px;
+}
